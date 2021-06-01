@@ -1,0 +1,3 @@
+/home/rokustark/Desktop/Repo/lessen/CMakeFiles/rebuild_cache.dir
+/home/rokustark/Desktop/Repo/lessen/CMakeFiles/edit_cache.dir
+/home/rokustark/Desktop/Repo/lessen/CMakeFiles/lessen.dir
